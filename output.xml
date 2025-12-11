@@ -1,0 +1,5 @@
+<error>
+  <message>Parsing errors found:</message>
+  <details>Invalid constant name: app_version
+Invalid constant name: debug_mode</details>
+</error>
