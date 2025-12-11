@@ -135,7 +135,7 @@ def test_complex_application_config(self):
 
 #### Ожидаемый XML
 
-```json
+```XML
 <?xml version="1.0" ?>
 <config>
   <application>
